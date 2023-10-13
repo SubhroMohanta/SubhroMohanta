@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishid-codes" alt="hrishid-codes" /></a> </p>
 
-<p align="left"> <a href="https://x.com/subhro_vk?t=NwosMkP7UfRLm4jYs_9JSw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@das_hrishi2002?logo=twitter&style=for-the-badge" alt="@das_hrishi2002" /></a> </p>
+
 <!-- https://github.com/SubhroMohanta -->
 
 
